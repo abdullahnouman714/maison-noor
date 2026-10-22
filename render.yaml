@@ -1,0 +1,18 @@
+# Render Blueprint — one-click backend deploy for Maison Noor
+# In Render: New → Blueprint → connect your repo → it reads this file.
+services:
+  - type: web
+    name: maison-noor-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    healthCheckPath: /api/products
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false # optional: paste your free Gemini key in Render dashboard to switch AI to a real LLM
+      - key: STRIPE_SECRET_KEY
+        sync: false # optional: paste Stripe test secret key for real test-mode payments

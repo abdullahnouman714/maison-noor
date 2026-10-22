@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+/* Maison Noor theme — ivory, espresso and antique gold.
+   Every page pulls from these tokens so the store feels like one brand. */
+@theme {
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --color-ivory: #faf7f1;
+  --color-cream: #f3ecdf;
+  --color-sand: #e9ded0;
+  --color-espresso: #1c1917;
+  --color-cocoa: #44403c;
+  --color-stone-warm: #78716c;
+  --color-gold: #b08d57;
+  --color-gold-dark: #96754a;
+  --color-gold-light: #d6ba8a;
+}
+
+html { scroll-behavior: smooth; }
+body { font-family: var(--font-body); background: var(--color-ivory); color: var(--color-espresso); }
+.font-display { font-family: var(--font-display); }
+
+::selection { background: #b08d57; color: #fff; }
+::-webkit-scrollbar { width: 10px; height: 8px; }
+::-webkit-scrollbar-track { background: #f3ecdf; }
+::-webkit-scrollbar-thumb { background: #c9ae7e; border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #b08d57; }
+
+input, select, textarea { outline: none; transition: border-color .2s, box-shadow .2s; }
+input:focus, select:focus, textarea:focus { border-color: #b08d57 !important; box-shadow: 0 0 0 3px rgba(176,141,87,.18); }
+
+/* gold gradient text, used for brand words */
+.gold-grad {
+  background: linear-gradient(110deg, #96754a 10%, #d6ba8a 40%, #b08d57 60%, #e8d3a2 90%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: shimmer 5s ease-in-out infinite;
+}
+@keyframes shimmer { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
+
+.card-shadow { box-shadow: 0 10px 40px -12px rgba(28,25,23,.18); }
+.card-lift { transition: transform .45s cubic-bezier(.22,1,.36,1), box-shadow .45s; }
+.card-lift:hover { transform: translateY(-6px); box-shadow: 0 24px 48px -16px rgba(28,25,23,.28); }
+
+/* shine sweep across product images on hover */
+.shine { position: relative; overflow: hidden; }
+.shine::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(115deg, transparent 30%, rgba(255,255,255,.35) 50%, transparent 70%);
+  transform: translateX(-120%); transition: transform .9s ease;
+}
+.shine:hover::after { transform: translateX(120%); }
+
+/* slow zoom on the hero photograph */
+.ken-burns { animation: kenburns 22s ease-in-out infinite alternate; }
+@keyframes kenburns { from { transform: scale(1) translateY(0); } to { transform: scale(1.12) translateY(-1.5%); } }
+
+/* gentle floating (hero badge, chat button) */
+.float-slow { animation: floaty 5s ease-in-out infinite; }
+@keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+
+/* scrolling brand strip under the hero */
+.marquee-track { display: flex; width: max-content; animation: marquee 30s linear infinite; }
+.marquee-track:hover { animation-play-state: paused; }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+/* typing dots in the chat widget */
+.typing-dot { width: 7px; height: 7px; border-radius: 9999px; background: #b08d57; display: inline-block; animation: typing 1.2s infinite; }
+.typing-dot:nth-child(2) { animation-delay: .15s; }
+.typing-dot:nth-child(3) { animation-delay: .3s; }
+@keyframes typing { 0%, 60%, 100% { transform: translateY(0); opacity: .4; } 30% { transform: translateY(-5px); opacity: 1; } }
+
+/* skeleton shimmer while products load */
+.skeleton { position: relative; overflow: hidden; background: #efe7d8; }
+.skeleton::after { content: ""; position: absolute; inset: 0; background: linear-gradient(100deg, transparent 20%, rgba(255,255,255,.65) 50%, transparent 80%); animation: skeleton-wave 1.4s infinite; }
+@keyframes skeleton-wave { from { transform: translateX(-100%); } to { transform: translateX(100%); } }
+
+/* gold divider with hairlines either side */
+.gold-divider { display: flex; align-items: center; gap: 14px; }
+.gold-divider::before, .gold-divider::after { content: ""; height: 1px; flex: 1; background: linear-gradient(90deg, transparent, #cbb27f, transparent); }

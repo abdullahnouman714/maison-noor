@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "midnight-oud",
+    "name": "Midnight Oud",
+    "slug": "midnight-oud",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Oud",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Saffron, Bergamot",
+      "heart": "Rose, Oud Wood",
+      "base": "Amber, Leather"
+    },
+    "description": "A deep, smouldering oud for evenings that turn into nights. Our best-selling signature — rich, warm and unapologetically bold.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 68,
+        "stock": 14,
+        "sku": "MID-30"
+      },
+      {
+        "size": "50ml",
+        "price": 99,
+        "stock": 14,
+        "sku": "MID-50"
+      },
+      {
+        "size": "100ml",
+        "price": 150,
+        "stock": 12,
+        "sku": "MID-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "white-musk-noor",
+    "name": "White Musk Noor",
+    "slug": "white-musk-noor",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Musk",
+    "gender": "Women",
+    "notes": {
+      "top": "Aldehydes, Pear",
+      "heart": "White Musk, Iris",
+      "base": "Sandalwood, Vanilla"
+    },
+    "description": "Clean, soft and luminous — like fresh linen and morning light. The perfect everyday and office scent.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 45,
+        "stock": 22,
+        "sku": "WHI-30"
+      },
+      {
+        "size": "50ml",
+        "price": 65,
+        "stock": 22,
+        "sku": "WHI-50"
+      },
+      {
+        "size": "100ml",
+        "price": 99,
+        "stock": 20,
+        "sku": "WHI-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "amber-dusk",
+    "name": "Amber Dusk",
+    "slug": "amber-dusk",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Amber",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Cardamom, Bergamot",
+      "heart": "Amber, Cinnamon",
+      "base": "Tonka, Benzoin"
+    },
+    "description": "Golden hour in a bottle. Warm amber wrapped in spice, made for autumn evenings and close conversations.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 58,
+        "stock": 9,
+        "sku": "AMB-30"
+      },
+      {
+        "size": "50ml",
+        "price": 84,
+        "stock": 9,
+        "sku": "AMB-50"
+      },
+      {
+        "size": "100ml",
+        "price": 128,
+        "stock": 7,
+        "sku": "AMB-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "citrus-veil",
+    "name": "Citrus Veil",
+    "slug": "citrus-veil",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Citrus",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Grapefruit, Lemon",
+      "heart": "Neroli, Green Tea",
+      "base": "White Musk, Cedar"
+    },
+    "description": "Bright and weightless. A sparkling citrus veil that keeps you fresh through the longest summer day.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 39,
+        "stock": 30,
+        "sku": "CIT-30"
+      },
+      {
+        "size": "50ml",
+        "price": 57,
+        "stock": 30,
+        "sku": "CIT-50"
+      },
+      {
+        "size": "100ml",
+        "price": 86,
+        "stock": 28,
+        "sku": "CIT-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "rose-taif",
+    "name": "Rose Taif",
+    "slug": "rose-taif",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Pink Pepper",
+      "heart": "Taif Rose, Peony",
+      "base": "Musk, Patchouli"
+    },
+    "description": "Thirty roses in every drop. A regal Damask rose inspired by the gardens of Taif, softened with peony.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 72,
+        "stock": 11,
+        "sku": "ROS-30"
+      },
+      {
+        "size": "50ml",
+        "price": 104,
+        "stock": 11,
+        "sku": "ROS-50"
+      },
+      {
+        "size": "100ml",
+        "price": 158,
+        "stock": 9,
+        "sku": "ROS-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "santal-royal",
+    "name": "Santal Royal",
+    "slug": "santal-royal",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Woody",
+    "gender": "Men",
+    "notes": {
+      "top": "Bergamot, Nutmeg",
+      "heart": "Sandalwood, Papyrus",
+      "base": "Leather, Cedarwood"
+    },
+    "description": "Creamy sandalwood with a tailored, boardroom polish. Quiet confidence, bottled.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 64,
+        "stock": 17,
+        "sku": "SAN-30"
+      },
+      {
+        "size": "50ml",
+        "price": 93,
+        "stock": 17,
+        "sku": "SAN-50"
+      },
+      {
+        "size": "100ml",
+        "price": 141,
+        "stock": 15,
+        "sku": "SAN-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "vanilla-noir",
+    "name": "Vanilla Noir",
+    "slug": "vanilla-noir",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Amber",
+    "gender": "Women",
+    "notes": {
+      "top": "Rum, Plum",
+      "heart": "Vanilla Orchid",
+      "base": "Dark Vanilla, Suede"
+    },
+    "description": "Not your sweet vanilla — this one is dark, grown and a little dangerous. A compliment magnet after dark.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 55,
+        "stock": 6,
+        "sku": "VAN-30"
+      },
+      {
+        "size": "50ml",
+        "price": 80,
+        "stock": 3,
+        "sku": "VAN-50"
+      },
+      {
+        "size": "100ml",
+        "price": 121,
+        "stock": 4,
+        "sku": "VAN-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "ocean-mist-attar",
+    "name": "Ocean Mist Attar",
+    "slug": "ocean-mist-attar",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Fresh",
+    "gender": "Men",
+    "notes": {
+      "top": "Sea Salt, Bergamot",
+      "heart": "Marine Accord, Sage",
+      "base": "Driftwood, Musk"
+    },
+    "description": "Alcohol-free attar oil. Sea breeze and salt skin, concentrated to last 10+ hours from a single roll-on.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 32,
+        "stock": 26,
+        "sku": "OCE-30"
+      },
+      {
+        "size": "50ml",
+        "price": 46,
+        "stock": 26,
+        "sku": "OCE-50"
+      },
+      {
+        "size": "100ml",
+        "price": 70,
+        "stock": 24,
+        "sku": "OCE-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "jasmine-court",
+    "name": "Jasmine Court",
+    "slug": "jasmine-court",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Green Leaves",
+      "heart": "Jasmine Sambac, Tuberose",
+      "base": "White Amber"
+    },
+    "description": "A courtyard of jasmine after rain. Lush, romantic and unmistakably feminine.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 49,
+        "stock": 19,
+        "sku": "JAS-30"
+      },
+      {
+        "size": "50ml",
+        "price": 71,
+        "stock": 19,
+        "sku": "JAS-50"
+      },
+      {
+        "size": "100ml",
+        "price": 108,
+        "stock": 17,
+        "sku": "JAS-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "leather-smoke",
+    "name": "Leather & Smoke",
+    "slug": "leather-smoke",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Woody",
+    "gender": "Men",
+    "notes": {
+      "top": "Thyme, Birch",
+      "heart": "Leather, Tobacco",
+      "base": "Smoked Cedar, Vetiver"
+    },
+    "description": "A worn leather jacket by a campfire. Rugged, smoky and built for winter nights.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 62,
+        "stock": 8,
+        "sku": "LEA-30"
+      },
+      {
+        "size": "50ml",
+        "price": 90,
+        "stock": 8,
+        "sku": "LEA-50"
+      },
+      {
+        "size": "100ml",
+        "price": 136,
+        "stock": 6,
+        "sku": "LEA-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "golden-saffron",
+    "name": "Golden Saffron",
+    "slug": "golden-saffron",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Amber",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Saffron, Almond",
+      "heart": "Jasmine, Amberwood",
+      "base": "Fir Resin, Cedar"
+    },
+    "description": "Rare Persian saffron over glowing amberwood. Opulent without shouting — luxury that whispers.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 95,
+        "stock": 6,
+        "sku": "GOL-30"
+      },
+      {
+        "size": "50ml",
+        "price": 138,
+        "stock": 6,
+        "sku": "GOL-50"
+      },
+      {
+        "size": "100ml",
+        "price": 209,
+        "stock": 4,
+        "sku": "GOL-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "fig-neroli",
+    "name": "Fig & Neroli",
+    "slug": "fig-neroli",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Citrus",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Fig Leaf, Bergamot",
+      "heart": "Neroli, Fig Fruit",
+      "base": "Cedar, Musk"
+    },
+    "description": "Mediterranean shade on a hot day. Green fig and orange blossom in perfect balance.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 44,
+        "stock": 16,
+        "sku": "FIG-30"
+      },
+      {
+        "size": "50ml",
+        "price": 64,
+        "stock": 16,
+        "sku": "FIG-50"
+      },
+      {
+        "size": "100ml",
+        "price": 97,
+        "stock": 14,
+        "sku": "FIG-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "black-pepper-club",
+    "name": "Black Pepper Club",
+    "slug": "black-pepper-club",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Spicy",
+    "gender": "Men",
+    "notes": {
+      "top": "Black Pepper, Grapefruit",
+      "heart": "Lavender, Geranium",
+      "base": "Vetiver, Amber"
+    },
+    "description": "Sharp pepper over a classic fougère heart. The gym-to-dinner all-rounder for men.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 48,
+        "stock": 21,
+        "sku": "BLA-30"
+      },
+      {
+        "size": "50ml",
+        "price": 70,
+        "stock": 21,
+        "sku": "BLA-50"
+      },
+      {
+        "size": "100ml",
+        "price": 106,
+        "stock": 19,
+        "sku": "BLA-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "peony-silk",
+    "name": "Peony Silk",
+    "slug": "peony-silk",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Lychee, Mandarin",
+      "heart": "Peony, Rose Water",
+      "base": "Silk Musk"
+    },
+    "description": "Soft-focus peony with a lychee sparkle. Bridal-shower pretty, wedding-guest ready.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 42,
+        "stock": 25,
+        "sku": "PEO-30"
+      },
+      {
+        "size": "50ml",
+        "price": 61,
+        "stock": 25,
+        "sku": "PEO-50"
+      },
+      {
+        "size": "100ml",
+        "price": 92,
+        "stock": 23,
+        "sku": "PEO-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "pure-musk-attar",
+    "name": "Pure Musk Attar",
+    "slug": "pure-musk-attar",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Musk",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Clean Cotton",
+      "heart": "White Musk",
+      "base": "Ambergris Accord"
+    },
+    "description": "Alcohol-free pure musk oil — your skin but better. Layers under any fragrance or shines alone.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 28,
+        "stock": 6,
+        "sku": "PUR-30"
+      },
+      {
+        "size": "50ml",
+        "price": 41,
+        "stock": 2,
+        "sku": "PUR-50"
+      },
+      {
+        "size": "100ml",
+        "price": 62,
+        "stock": 4,
+        "sku": "PUR-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "cedar-atlas",
+    "name": "Cedar Atlas",
+    "slug": "cedar-atlas",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Woody",
+    "gender": "Men",
+    "notes": {
+      "top": "Pink Pepper, Cardamom",
+      "heart": "Atlas Cedar, Iris",
+      "base": "Sandal, Amber"
+    },
+    "description": "Mountain air and dry cedarwood. Minimal, modern, and endlessly wearable at the office.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 52,
+        "stock": 13,
+        "sku": "CED-30"
+      },
+      {
+        "size": "50ml",
+        "price": 75,
+        "stock": 13,
+        "sku": "CED-50"
+      },
+      {
+        "size": "100ml",
+        "price": 114,
+        "stock": 11,
+        "sku": "CED-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "honey-oud",
+    "name": "Honey Oud",
+    "slug": "honey-oud",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Oud",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Honey, Cinnamon",
+      "heart": "Oud, Rose",
+      "base": "Vanilla, Amber"
+    },
+    "description": "Wild honey poured over smoky oud. Sweetness with a backbone — a winter masterpiece.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 84,
+        "stock": 7,
+        "sku": "HON-30"
+      },
+      {
+        "size": "50ml",
+        "price": 122,
+        "stock": 7,
+        "sku": "HON-50"
+      },
+      {
+        "size": "100ml",
+        "price": 185,
+        "stock": 5,
+        "sku": "HON-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "green-tea-ceremony",
+    "name": "Green Tea Ceremony",
+    "slug": "green-tea-ceremony",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Fresh",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Bergamot, Mint",
+      "heart": "Green Tea, Jasmine",
+      "base": "Maté, Musk"
+    },
+    "description": "A moment of calm. Steamed green tea and mint, serene and zen-clean for daily wear.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 38,
+        "stock": 28,
+        "sku": "GRE-30"
+      },
+      {
+        "size": "50ml",
+        "price": 55,
+        "stock": 28,
+        "sku": "GRE-50"
+      },
+      {
+        "size": "100ml",
+        "price": 84,
+        "stock": 26,
+        "sku": "GRE-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "iris-poudre",
+    "name": "Iris Poudre",
+    "slug": "iris-poudre",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Violet Leaf",
+      "heart": "Iris, Mimosa",
+      "base": "Powdery Musk, Tonka"
+    },
+    "description": "Vintage powder and silk gloves. An elegant iris that feels like a Parisian dressing table.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 59,
+        "stock": 10,
+        "sku": "IRI-30"
+      },
+      {
+        "size": "50ml",
+        "price": 86,
+        "stock": 10,
+        "sku": "IRI-50"
+      },
+      {
+        "size": "100ml",
+        "price": 130,
+        "stock": 8,
+        "sku": "IRI-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "desert-rose-attar",
+    "name": "Desert Rose Attar",
+    "slug": "desert-rose-attar",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Damask Rose",
+      "heart": "Rose Absolute, Litchi",
+      "base": "Oud, Amber"
+    },
+    "description": "Alcohol-free rose attar oil from the heart of the desert bloom. One drop blooms for hours.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 36,
+        "stock": 15,
+        "sku": "DES-30"
+      },
+      {
+        "size": "50ml",
+        "price": 52,
+        "stock": 15,
+        "sku": "DES-50"
+      },
+      {
+        "size": "100ml",
+        "price": 79,
+        "stock": 13,
+        "sku": "DES-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "vetiver-storm",
+    "name": "Vetiver Storm",
+    "slug": "vetiver-storm",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Woody",
+    "gender": "Men",
+    "notes": {
+      "top": "Grapefruit, Sage",
+      "heart": "Vetiver, Nutmeg",
+      "base": "Oakmoss, Amber"
+    },
+    "description": "Electric vetiver before the rain breaks. Green, earthy and charged with energy.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 54,
+        "stock": 12,
+        "sku": "VET-30"
+      },
+      {
+        "size": "50ml",
+        "price": 78,
+        "stock": 12,
+        "sku": "VET-50"
+      },
+      {
+        "size": "100ml",
+        "price": 119,
+        "stock": 10,
+        "sku": "VET-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "coconut-palm",
+    "name": "Coconut Palm",
+    "slug": "coconut-palm",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Fresh",
+    "gender": "Women",
+    "notes": {
+      "top": "Coconut Water, Lime",
+      "heart": "Tiare Flower, Coconut Milk",
+      "base": "Vanilla, Sandalwood"
+    },
+    "description": "A beach holiday that never ends. Creamy coconut and tiare over warm skin.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 41,
+        "stock": 20,
+        "sku": "COC-30"
+      },
+      {
+        "size": "50ml",
+        "price": 59,
+        "stock": 20,
+        "sku": "COC-50"
+      },
+      {
+        "size": "100ml",
+        "price": 90,
+        "stock": 18,
+        "sku": "COC-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "royal-cambodi-oud",
+    "name": "Royal Cambodi Oud",
+    "slug": "royal-cambodi-oud",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Oud",
+    "gender": "Men",
+    "notes": {
+      "top": "Cambodian Oud",
+      "heart": "Aged Oud, Spice",
+      "base": "Dark Amber, Musk"
+    },
+    "description": "Pure aged Cambodian oud oil — animalic, honeyed, profound. For true oud connoisseurs.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 120,
+        "stock": 6,
+        "sku": "ROY-30"
+      },
+      {
+        "size": "50ml",
+        "price": 174,
+        "stock": 4,
+        "sku": "ROY-50"
+      },
+      {
+        "size": "100ml",
+        "price": 264,
+        "stock": 4,
+        "sku": "ROY-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "lavender-fields",
+    "name": "Lavender Fields",
+    "slug": "lavender-fields",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Fresh",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Lavender, Bergamot",
+      "heart": "Lavender Absolute, Clary Sage",
+      "base": "Tonka, Coumarin"
+    },
+    "description": "Provence at dusk. Herbal lavender smoothed with tonka — your evening wind-down ritual.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 40,
+        "stock": 18,
+        "sku": "LAV-30"
+      },
+      {
+        "size": "50ml",
+        "price": 58,
+        "stock": 18,
+        "sku": "LAV-50"
+      },
+      {
+        "size": "100ml",
+        "price": 88,
+        "stock": 16,
+        "sku": "LAV-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "spiced-chai",
+    "name": "Spiced Chai",
+    "slug": "spiced-chai",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Spicy",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Chai Spices, Orange",
+      "heart": "Black Tea, Cardamom",
+      "base": "Vanilla, Sandalwood"
+    },
+    "description": "A steaming cup of masala chai, bottled. Cozy, spicy-sweet and utterly unique.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 46,
+        "stock": 9,
+        "sku": "SPI-30"
+      },
+      {
+        "size": "50ml",
+        "price": 67,
+        "stock": 9,
+        "sku": "SPI-50"
+      },
+      {
+        "size": "100ml",
+        "price": 101,
+        "stock": 7,
+        "sku": "SPI-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "magnolia-dawn",
+    "name": "Magnolia Dawn",
+    "slug": "magnolia-dawn",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "Magnolia Petals",
+      "heart": "Magnolia, Water Lily",
+      "base": "Blond Musk"
+    },
+    "description": "First light through magnolia trees. Dewy, airy and quietly joyful.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 43,
+        "stock": 23,
+        "sku": "MAG-30"
+      },
+      {
+        "size": "50ml",
+        "price": 62,
+        "stock": 23,
+        "sku": "MAG-50"
+      },
+      {
+        "size": "100ml",
+        "price": 95,
+        "stock": 21,
+        "sku": "MAG-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "tobacco-vanille-reserve",
+    "name": "Tobacco Vanille Reserve",
+    "slug": "tobacco-vanille-reserve",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Amber",
+    "gender": "Men",
+    "notes": {
+      "top": "Tobacco Leaf, Spices",
+      "heart": "Vanilla, Cacao",
+      "base": "Dried Fruits, Tonka"
+    },
+    "description": "Our reserve blend: rich tobacco leaf and cacao under a vanilla haze. Pure evening luxury.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 88,
+        "stock": 6,
+        "sku": "TOB-30"
+      },
+      {
+        "size": "50ml",
+        "price": 128,
+        "stock": 5,
+        "sku": "TOB-50"
+      },
+      {
+        "size": "100ml",
+        "price": 194,
+        "stock": 4,
+        "sku": "TOB-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "bergamot-noir",
+    "name": "Bergamot Noir",
+    "slug": "bergamot-noir",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Citrus",
+    "gender": "Men",
+    "notes": {
+      "top": "Bergamot, Black Tea",
+      "heart": "Juniper, Leather",
+      "base": "Smoked Woods"
+    },
+    "description": "Citrus after dark. Bergamot and black tea over a leathery, smoky base.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 57,
+        "stock": 14,
+        "sku": "BER-30"
+      },
+      {
+        "size": "50ml",
+        "price": 83,
+        "stock": 14,
+        "sku": "BER-50"
+      },
+      {
+        "size": "100ml",
+        "price": 125,
+        "stock": 12,
+        "sku": "BER-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "sacred-frankincense",
+    "name": "Sacred Frankincense",
+    "slug": "sacred-frankincense",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Oud",
+    "gender": "Unisex",
+    "notes": {
+      "top": "Frankincense, Pine",
+      "heart": "Myrrh, Labdanum",
+      "base": "Benzoin, Cedar"
+    },
+    "description": "Cathedral incense and ancient resin trails. Meditative, sacred, unforgettable.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 79,
+        "stock": 8,
+        "sku": "SAC-30"
+      },
+      {
+        "size": "50ml",
+        "price": 115,
+        "stock": 8,
+        "sku": "SAC-50"
+      },
+      {
+        "size": "100ml",
+        "price": 174,
+        "stock": 6,
+        "sku": "SAC-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "pear-freesia-garden",
+    "name": "Pear & Freesia Garden",
+    "slug": "pear-freesia-garden",
+    "brandLine": "Maison Noor Original",
+    "scentFamily": "Floral",
+    "gender": "Women",
+    "notes": {
+      "top": "King William Pear",
+      "heart": "Freesia, Rose",
+      "base": "Patchouli, Musk"
+    },
+    "description": "Ripe pear over a freesia garden. Fresh, fruity-floral and endlessly charming.",
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 44,
+        "stock": 27,
+        "sku": "PEA-30"
+      },
+      {
+        "size": "50ml",
+        "price": 64,
+        "stock": 27,
+        "sku": "PEA-50"
+      },
+      {
+        "size": "100ml",
+        "price": 97,
+        "stock": 25,
+        "sku": "PEA-100"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "isFeatured": false,
+    "isActive": true
+  }
+]
